@@ -14,5 +14,9 @@ namespace WebAPI_Tutorial_2.Data
 
         // Name of the DB table, ususally just pluralised model name
         public DbSet<SuperHero> SuperHeroes{ get; set; }
+
+        public DbSet<Course> Courses { get; set; }
+
+        public DbSet<Teacher> Teachers { get; set; }
     }
 }
