@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using WebAPI_Tutorial_2.Data;
 using WebAPI_Tutorial_2.Models;
 
 namespace WebAPI_Tutorial_2.Controllers
